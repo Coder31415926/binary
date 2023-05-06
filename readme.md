@@ -17,3 +17,11 @@ Written in C++
 {Make a list of websites that you found helpful in this project}
 * [W3Schools](https://www.w3schools.com/cpp/cpp_syntax.asp)
 * [Microsoft Learn](https://learn.microsoft.com/en-us/cpp/cpp/cpp-language-reference?view=msvc-170)
+
+# Future Work
+
+
+
+- Auto Balancing
+- Add Deletion to binary tree class
+- Create better ID creation method
